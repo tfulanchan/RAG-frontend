@@ -52,7 +52,7 @@ const Ask = () => {
   }
 
   const suggestedQueries = [
-    'What is our work from home policy?',
+    'Can I fuck my boss?',
     "What's the NASA sales team?",
     'Does the company own my side project?',
     'What job openings do we have?',

@@ -49,7 +49,6 @@ const App = () => {
 
   const suggestedQueries = [
     'Can I fuck my boss?',
-    'What is our work from home policy?',
     "What's the NASA sales team?",
     'Does the company own my side project?',
     'What job openings do we have?',

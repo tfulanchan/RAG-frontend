@@ -21,7 +21,7 @@ export const AnswerMessage: React.FC<AnswerMessageProps> = ({
               Answer
             </h2>
             <p className="text-zinc-400 text-sm font-medium">
-              Powered by <b>Elasticsearch</b>
+              Powered by <b>Langchain</b>
             </p>
           </div>
         </div>
